@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-02T12:11:23Z" name="Suite" finished-at="2023-01-02T12:11:38Z" duration-ms="14990">
+    <groups>
+    </groups>
+    <test started-at="2023-01-02T12:11:23Z" name="Test" finished-at="2023-01-02T12:11:38Z" duration-ms="14990">
+      <class name="pageObject.SecondHighestRateTelevision">
+        <test-method is-config="true" signature="openApplication()[pri:0, instance:pageObject.SecondHighestRateTelevision@138a7441]" started-at="2023-01-02T12:11:23Z" name="openApplication" finished-at="2023-01-02T12:11:27Z" duration-ms="3482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="fetchDetails()[pri:0, instance:pageObject.SecondHighestRateTelevision@138a7441]" started-at="2023-01-02T12:11:27Z" name="fetchDetails" finished-at="2023-01-02T12:11:38Z" duration-ms="11316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchDetails -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:pageObject.SecondHighestRateTelevision@138a7441]" started-at="2023-01-02T12:11:38Z" name="closeApplication" finished-at="2023-01-02T12:11:38Z" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- pageObject.SecondHighestRateTelevision -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
